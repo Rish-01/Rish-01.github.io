@@ -1,6 +1,16 @@
+---
+permalink: /
+title: "Hi there, I'm Rishab!"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
-Hello, I'm Rishab, a passionate individual with a deep interest in solving complex problems using the synergy of mathematics and technology. Currently, I am an intern at Indian Institute of Science (IISc).
+I am currently an intern at Indian Institute of Science (IISc) under Professor Punit Rathore.
 
 ## Background
 

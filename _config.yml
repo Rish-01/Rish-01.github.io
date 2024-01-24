@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rishab Sharma / Site Title"
+title                    : "Rishab Sharma / Rishab's Homepage"
 title_separator          : "-"
 name                     : &name "Rishab Sharma"
-description              : &description "personal description"
+description              : &description "Research Intern @ IISc | SIH'23 Winner | Deep Learning"
 url                      : https://rish-01.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rish-01/Rish-01.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rish01/"
+  linkedin         : "rish01"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
